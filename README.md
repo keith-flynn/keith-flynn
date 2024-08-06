@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keith-flynn and I'm learning full stack web development
 - 👀 I’m interested in learning frameworks, backend programming, design, cloud services, and more
-- 🌱 I’m currently learning REST APIs with JavaScript and HTML
+- 🌱 I’m currently learning C# and .NET
 - 💞️ I’m looking to collaborate on open source projects
 - 🛠️ Languages and tools : 
 <div>
@@ -32,4 +32,4 @@
   
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keith-flynn&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keith-flynn&langs_count=10&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
